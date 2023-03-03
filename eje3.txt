@@ -1,0 +1,3 @@
+Escribir el código: VSC
+Probar el código: Navegador Chrome
+Depurar: la consola del navegador
